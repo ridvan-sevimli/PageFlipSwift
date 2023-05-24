@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8C4202692A1DB86700F058C2 /* DetailViewTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C4202682A1DB86600F058C2 /* DetailViewTest.swift */; };
 		8CD5E2752A1D4C0D00FF9914 /* PageFlipApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD5E2742A1D4C0D00FF9914 /* PageFlipApp.swift */; };
 		8CD5E2772A1D4C0D00FF9914 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD5E2762A1D4C0D00FF9914 /* ContentView.swift */; };
 		8CD5E2792A1D4C0E00FF9914 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8CD5E2782A1D4C0E00FF9914 /* Assets.xcassets */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8C4202682A1DB86600F058C2 /* DetailViewTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewTest.swift; sourceTree = "<group>"; };
 		8CD5E2712A1D4C0D00FF9914 /* PageFlip.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PageFlip.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8CD5E2742A1D4C0D00FF9914 /* PageFlipApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageFlipApp.swift; sourceTree = "<group>"; };
 		8CD5E2762A1D4C0D00FF9914 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -67,6 +69,7 @@
 				8CD5E2822A1D50B600FF9914 /* DetailView.swift */,
 				8CD5E2902A1D7FE200FF9914 /* BookModel.swift */,
 				8CD5E2862A1D563700FF9914 /* JSONMapping.swift */,
+				8C4202682A1DB86600F058C2 /* DetailViewTest.swift */,
 				8CD5E28A2A1D5E4700FF9914 /* searchExample.json */,
 				8CD5E2782A1D4C0E00FF9914 /* Assets.xcassets */,
 				8CD5E27A2A1D4C0E00FF9914 /* Preview Content */,
@@ -155,6 +158,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8CD5E2912A1D7FE200FF9914 /* BookModel.swift in Sources */,
+				8C4202692A1DB86700F058C2 /* DetailViewTest.swift in Sources */,
 				8CD5E2772A1D4C0D00FF9914 /* ContentView.swift in Sources */,
 				8CD5E2832A1D50B600FF9914 /* DetailView.swift in Sources */,
 				8CD5E2872A1D563800FF9914 /* JSONMapping.swift in Sources */,
