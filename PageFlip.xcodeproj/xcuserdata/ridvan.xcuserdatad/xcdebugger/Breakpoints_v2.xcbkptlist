@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1EC7B3AC-F0EA-4257-92CC-6F5F8B912FA3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6F3147E2-7AB8-4CFC-A974-1E30DD1229FD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PageFlip/StationboardModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "loadDataAsyncDispatch()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6F3147E2-7AB8-4CFC-A974-1E30DD1229FD - fc91b4095b5e3238"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () -&gt; () in PageFlip.StationboardModel.loadDataAsyncDispatch() async -&gt; ()"
+                  moduleName = "PageFlip"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ridvan/ZHAW/04_Semester_Wiederholung/03_MOBA2/Swift/PageFlip/PageFlip/StationboardModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "276">
+               </Location>
+               <Location
+                  uuid = "6F3147E2-7AB8-4CFC-A974-1E30DD1229FD - fc91b4095b5e3238"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () -&gt; () in PageFlip.StationboardModel.loadDataAsyncDispatch() async -&gt; ()"
+                  moduleName = "PageFlip"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ridvan/ZHAW/04_Semester_Wiederholung/03_MOBA2/Swift/PageFlip/PageFlip/StationboardModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "536">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
